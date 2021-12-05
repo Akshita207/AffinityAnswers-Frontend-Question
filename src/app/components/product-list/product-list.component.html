@@ -1,0 +1,14 @@
+<div class="main">
+  <h1>Products Under {{category.replace('-',' ') | titlecase}}</h1>
+  <div class="products">
+    <div class="card" *ngFor="let item of productList[category]">
+      <div class="image">
+        <img attr.src="{{item.image}}" alt="{{item.name}}">
+      </div>
+      <div class="content">
+        {{item.name}}
+      </div>
+      <button (click)="addToCart(item)">Add To Cart</button>
+    </div>
+  </div>
+</div>

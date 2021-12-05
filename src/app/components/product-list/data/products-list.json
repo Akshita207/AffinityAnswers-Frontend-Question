@@ -1,0 +1,128 @@
+{
+  "category-1" : [
+    {
+      "name" : "Product 1",
+      "image" : "imgurl",
+      "cart_quantity" : 0
+    },
+    {
+      "name" : "Product 2",
+      "image" : "imgurl",
+      "cart_quantity" : 0
+    },
+    {
+      "name" : "Product 3",
+      "image" : "imgurl",
+      "cart_quantity" : 0
+    },
+    {
+      "name" : "Product 4",
+      "image" : "imgurl",
+      "cart_quantity" : 0
+    },
+    {
+      "name" : "Product 5",
+      "image" : "imgurl",
+      "cart_quantity" : 0
+    },
+    {
+      "name" : "Product 6",
+      "image" : "imgurl",
+      "cart_quantity" : 0
+    },
+    {
+      "name" : "Product 7",
+      "image" : "imgurl",
+      "cart_quantity" : 0
+    },
+    {
+      "name" : "Product 8",
+      "image" : "imgurl",
+      "cart_quantity" : 0
+    }
+  ],
+  "category-2" : [
+    {
+      "name" : "Product 9",
+      "image" : "imgurl",
+      "cart_quantity" : 0
+    },
+    {
+      "name" : "Product 10",
+      "image" : "imgurl",
+      "cart_quantity" : 0
+    },
+    {
+      "name" : "Product 11",
+      "image" : "imgurl",
+      "cart_quantity" : 0
+    },
+    {
+      "name" : "Product 12",
+      "image" : "imgurl",
+      "cart_quantity" : 0
+    },
+    {
+      "name" : "Product 13",
+      "image" : "imgurl",
+      "cart_quantity" : 0
+    },
+    {
+      "name" : "Product 14",
+      "image" : "imgurl",
+      "cart_quantity" : 0
+    },
+    {
+      "name" : "Product 15",
+      "image" : "imgurl",
+      "cart_quantity" : 0
+    },
+    {
+      "name" : "Product 16",
+      "image" : "imgurl",
+      "cart_quantity" : 0
+    }
+  ],
+  "category-3" : [
+    {
+      "name" : "Product 17",
+      "image" : "imgurl",
+      "cart_quantity" : 0
+    },
+    {
+      "name" : "Product 18",
+      "image" : "imgurl",
+      "cart_quantity" : 0
+    },
+    {
+      "name" : "Product 19",
+      "image" : "imgurl",
+      "cart_quantity" : 0
+    },
+    {
+      "name" : "Product 20",
+      "image" : "imgurl",
+      "cart_quantity" : 0
+    },
+    {
+      "name" : "Product 21",
+      "image" : "imgurl",
+      "cart_quantity" : 0
+    },
+    {
+      "name" : "Product 22",
+      "image" : "imgurl",
+      "cart_quantity" : 0
+    },
+    {
+      "name" : "Product 23",
+      "image" : "imgurl",
+      "cart_quantity" : 0
+    },
+    {
+      "name" : "Product 24",
+      "image" : "imgurl",
+      "cart_quantity" : 0
+    }
+  ]
+}

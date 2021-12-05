@@ -1,0 +1,11 @@
+.main {
+  .content {
+    display: flex;
+    height: calc(100vh - 4.4rem);
+
+    .list {
+      flex: 1;
+    }
+  }
+}
+

@@ -1,0 +1,31 @@
+<div class="main">
+  <div class="header">
+    <div class="company">
+      BlaBla Cart
+    </div>
+    <div class="user-info">
+      <div class="totalCartItems">{{totalCartItems}}</div>
+      <div class="user-cart" (click)="showCart=!showCart">
+        CART
+      </div>
+      <div class="user-name">
+        Username
+      </div>
+    </div>
+  </div>
+  <div class="show-cart" *ngIf="showCart">
+    <span *ngIf="cartItems.length==0">No Items Added</span>
+    <div class="card" *ngFor="let item of cartItems; let i = index">
+      <div class="image">
+        <img attr.src="{{item[0].image}}" alt="{{item[0].name}}">
+      </div>
+      <div class="content">
+        {{item[0].name}}
+        <div class="quantity">
+          <button (click)="subtract(i)">-</button>{{item[0].cart_quantity}}<button (click)="add(i)">+</button>
+        </div>
+      </div>
+      <button (click)="removeFromCart(i)">Remove</button>
+    </div>
+  </div>
+</div>
